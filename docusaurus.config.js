@@ -2,7 +2,7 @@
 module.exports = {
   title: 'CSES GUIDE',
   tagline: 'A complete tutorial for CSES problem set',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://csesguide.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
