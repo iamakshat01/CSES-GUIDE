@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
+    title: 'Found A Error',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We are open source. Open the issue in github repository and don't hesitate to communicate and contribute.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Get Better at Problem Solving',
+    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Beginner friendly editorials for the CSES problem set to improve intution, thinking and problem solving skills.
+      </>
+    ),
+  },
+  {
+    title: 'Built with Docusaurus',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        ⚡️ Docusaurus will help you ship a beautiful documentation site in no time.
       </>
     ),
   },
